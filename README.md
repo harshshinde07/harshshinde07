@@ -60,3 +60,10 @@ Here are some ideas to get you started:
 ### If you like my work, consider giving the repositories a :star: or fork-ing it to show some :heart:.
 
 </div>
+
+<hr>
+<p align="center">
+   <i>A journey of a thousand miles must begin with a single step.</i>
+   <br>
+<br>	
+</p>
