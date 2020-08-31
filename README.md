@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <details open>
-<summary><b>Connect with Me</b></summary>
+<summary><b>Social Handles</b></summary>
 
 <p align = "center">
 
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ---
 
 <details open>
- <summary><b>My Github Statistics</b>: </summary>
+ <summary><b>Github Stats</b></summary>
 
 <br>
 
