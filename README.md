@@ -93,9 +93,23 @@ Here are some ideas to get you started:
 </details>
 -->
 
+<details open>
+ <summary><b>My Apps </b><summary>
+ <p align = "center">
+ 
+
+| Simple BMI Calculator      | COEP Zest |
+| ----------- | ----------- |
+| <a href='https://play.google.com/store/apps/details?id=com.apps.harsh.bmi_calculator'><img alt='Simple BMI Calculator' src='https://github.com/harshshinde07/BMI-Calculator-Flutter/blob/master/BMI%20calculator%20banner.png' height='264' /></a> <br> <a href='https://play.google.com/store/apps/details?id=com.apps.harsh.bmi_calculator'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='64' /></a>         | <a href='https://play.google.com/store/apps/details?id=com.apps.harsh.zest'><img alt='COEP ZEST' src='https://github.com/harshshinde07/COEP-Zest-19/blob/master/Feature%20Graphic-01.png' height='264' /></a> <br> <a href='https://play.google.com/store/apps/details?id=com.apps.harsh.zest'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='64' /></a>       |
+
+ 
+ </p>
+ 
+ </details>
+
 <div align="center">
 
-### If you like my work, consider giving the repositories a :star: or fork-ing it to show some :heart:.
+### If you like my work, consider giving the repositories a :star: or fork-ing it to show some :heart: :)
 
 </div>
 
