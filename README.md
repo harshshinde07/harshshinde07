@@ -83,15 +83,18 @@ Here are some ideas to get you started:
 </details>
 
 
-<!--
+
 <details open> 
  <summary><b>Featured Repositories</b></summary>
+ 
+ <br>
+ 
 <p align = "center">
 <a href = "https://github.com/harshshinde07/BMI-Calculator-Flutter"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshshinde07&repo=BMI-Calculator-Flutter&theme=tokyonight" /></a>
 <a href = "https://github.com/harshshinde07/COEP-Zest-19"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=harshshinde07&repo=COEP-Zest-19&theme=tokyonight" /></a>
 </p>
 </details>
--->
+
 
 <details open>
  <summary><b>My Apps </b><summary>
