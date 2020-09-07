@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p> I am Harshvardhan, pursuing Batchlor Tech in Information Technology from College of Engineering, Pune. I am passionate about cutting-edge technologies and contributing to make this world a better place. My personal favourites are Flutter and Android app development. I like to contribute to Open source. </p>
+<p> I'm open for collaboration in some interesting ideas, so feel free to get in touch with me :) </p>
+
 <details open>
 <summary><b>Technologies and Frameworks</b></summary>
 
