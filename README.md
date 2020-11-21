@@ -63,6 +63,7 @@ Here are some ideas to get you started:
 
 [<img src="https://img.shields.io/badge/-Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harshshinde07@gmail.com" />](mailto:harshshinde07@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/harshshinde07/)
+[<img src = "https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&color=black&logo=Medium&logoColor=white">](https://harshvardhan-shinde.medium.com/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/im_Harsh07) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/iamharsh_07/)
 [![Visits Badge](https://badges.pufler.dev/visits/harshshinde07/harshshinde07?style=for-the-badge)](https://github.com/harshshinde07/harshshinde07)
